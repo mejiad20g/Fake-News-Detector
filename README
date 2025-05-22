@@ -1,0 +1,9 @@
+1. Install requirements:
+   pip install -r requirements.txt
+
+2. (Optional) Run the model script to regenerate files:
+   python model.py
+   *Note: model is already loaded; delete all .joblib files if rerunning.*
+
+3. Launch the app:
+   streamlit run app.py
